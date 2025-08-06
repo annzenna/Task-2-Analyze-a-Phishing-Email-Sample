@@ -23,7 +23,9 @@ Awareness of phishing tactics and email threat analysis skills.
 In real email, we can check in the three dots shown in email window with show original then click on copy clip board/ Download Original option. Then using online header analyzer (given below) we can analyze the report.
 
 Use free online tools for real emails:
+
 Google Message Header Analyzer - https://toolbox.googleapps.com/apps/messageheader/
+
 MXToolbox Header Checker -  https://mxtoolbox.com/EmailHeaders.aspx
 
 # Step 4: Analysis Report of Sample Phishing Email
