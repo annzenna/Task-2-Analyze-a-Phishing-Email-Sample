@@ -55,12 +55,12 @@ MXToolbox Header Checker -  https://mxtoolbox.com/EmailHeaders.aspx
 
     Fake email address	        : support@msupdate.net
     Suspicious links	        : http://reset-microsoft-login.com
-    Scary Message               : “If this wasn’t you…”
-    Spelling Mistake            : Your pasword was changed.
+    Scary Message                   : “If this wasn’t you…”
+    Spelling Mistake                : Your pasword was changed.
     Missing branding	        : No logo or poor design
     Unusual domain name	        : msupdate.net
     Unverified link destination	: The actual link is hidden behind text, real destination is unknown
-    Generic closing	            : Signed off as "Microsoft Team" without proper contact info or support links
+    Generic closing	                : Signed off as "Microsoft Team" without proper contact info or support links
      
 This email contains multiple phishing warning signs. The combination of a fake sender, scare tactics, and misleading links strongly suggests it's a phishing attempt. It should not be trusted or interacted with.
 
