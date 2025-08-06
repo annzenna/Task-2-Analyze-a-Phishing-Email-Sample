@@ -70,11 +70,12 @@ Bad grammar = low quality = likely fake.
     Generic closing	                : Signed off as "Microsoft Team" without proper contact info
      
 If we get a suspicious email:
-        Do not click on any links or open attachments
-        Do not reply to the email
-        Report it to your IT team or email provider
-        Delete it from your inbox
-        Use the "Report phishing" button if the email service has one
+
+    Do not click on any links or open attachments
+    Do not reply to the email
+    Report it to your IT team or email provider
+    Delete it from your inbox
+    Use the "Report phishing" button if the email service has one
 
 In this email contains multiple phishing warning signs. The combination of a fake sender, scare tactics, and misleading links strongly suggests it's a phishing attempt. It should not be trusted or interacted with.
 
