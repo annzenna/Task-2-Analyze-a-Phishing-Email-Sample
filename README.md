@@ -59,8 +59,8 @@ MXToolbox Header Checker -  https://mxtoolbox.com/EmailHeaders.aspx
     Spelling Mistake                : Your pasword was changed.
     Missing branding	        : No logo or poor design
     Unusual domain name	        : msupdate.net
-    Unverified link destination	: The actual link is hidden behind text, real destination is unknown
-    Generic closing	                : Signed off as "Microsoft Team" without proper contact info or support links
+    Unverified link destination	: The actual link is hidden behind text, real destination unknown
+    Generic closing	                : Signed off as "Microsoft Team" without proper contact info
      
 This email contains multiple phishing warning signs. The combination of a fake sender, scare tactics, and misleading links strongly suggests it's a phishing attempt. It should not be trusted or interacted with.
 
