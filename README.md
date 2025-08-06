@@ -35,11 +35,11 @@ In real email, we can check in the three dots shown in email window with show or
 
 # Step 5: Look for urgent or threatening language in the email body.
 
-Language:"If this wasn't you, click the link below" – tries to create fear.
+    Language:"If this wasn't you, click the link below" – tries to create fear.
 
 # Step 6: Note any mismatched URLs (hover to see real link).
 
-The actual link is hidden behind text – real destination is unknown until hovered or clicked
+    The actual link is hidden behind text – real destination is unknown until hovered or clicked
 
 # Step 7: Verify presence of spelling or grammar errors.
 
@@ -47,13 +47,14 @@ The actual link is hidden behind text – real destination is unknown until hove
  
 # Step 8: Summarize phishing traits found in the email
 
-    Fake sender address         : Email is from support@msupdate.net, not a real Microsoft doma
-    Suspicious links	        : Link likely goes to a fake site (not a Microsoft domain)
-    Urgent language             : Message says “If this wasn’t you…” – creates fear to make you click quickly
-    Lack of branding or logo    : No Microsoft logo or branding elements present in the email
-    Unusual domain name	        : Uses msupdate.net which is not associated with Microsoft
-    Unverified link destination	: The actual link is hidden behind text – real destination is unknown until hovered or clicked
-    Generic closing	           : Signed off as "Microsoft Team" without proper contact info or support links
+    Fake email address	        : support@msupdate.net
+    Suspicious links	        : http://reset-microsoft-login.com
+    Scary Message               : “If this wasn’t you…”
+    Spelling Mistake            : Your pasword was changed.
+    Missing branding	        : No logo or poor design
+    Unusual domain name	        : msupdate.net
+    Unverified link destination	: The actual link is hidden behind text, real destination is unknown
+    Generic closing	            : Signed off as "Microsoft Team" without proper contact info or support links
      
 This email contains multiple phishing warning signs. The combination of a fake sender, scare tactics, and misleading links strongly suggests it's a phishing attempt. It should not be trusted or interacted with.
 
