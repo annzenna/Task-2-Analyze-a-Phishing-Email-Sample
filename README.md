@@ -14,7 +14,7 @@ Awareness of phishing tactics and email threat analysis skills.
 
  # Step 2: Look at the Sender's Email Address
 
- Click on the name of the sender to see the full email address.
+Click on the name of the sender to see the full email address.
 
      support@msupdate.net
      
@@ -46,11 +46,11 @@ MXToolbox -  https://mxtoolbox.com/EmailHeaders.aspx
 
 # Step 5: Look for urgent or threatening language in the email body.
 
-    Language:"If this wasn't you, click the link below" – tries to create fear.
+Language:"If this wasn't you, click the link below" – tries to create fear.
 
 # Step 6: Note any mismatched URLs (hover to see real link).
 
-    The actual link is hidden behind text – real destination is unknown until hovered or clicked
+The actual link is hidden behind text – real destination is unknown until hovered or clicked
 
 # Step 7: Verify presence of spelling or grammar errors.
 
