@@ -26,7 +26,12 @@ Tools can analyze email headers are:
 
 Google Admin Toolbox - https://toolbox.googleapps.com/apps/messageheader/
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/1eb4091d-3f62-4cf1-a0b8-fe990d4b9210" />
+
+
 MXToolbox -  https://mxtoolbox.com/EmailHeaders.aspx
+
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/bc55e423-b64a-4731-92e8-a579995ad58e" />
 
 # Step 4: Analysis Report of Sample Phishing Email
 
