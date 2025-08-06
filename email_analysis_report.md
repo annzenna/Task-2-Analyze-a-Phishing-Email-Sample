@@ -6,3 +6,7 @@
 
     Suspicious Link: http://reset-microsoft-login.com
     ❌ It is not an official Microsoft website.
+    
+    Language:"If this wasn't you, click the link below" – tries to create fear.
+
+    The actual link is hidden behind text – real destination is unknown until hovered or clicked
