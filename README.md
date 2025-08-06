@@ -22,11 +22,11 @@ Awareness of phishing tactics and email threat analysis skills.
  
 In real email, we can check in the three dots shown in email window with show original then click on copy clip board/ Download Original option. Then using online header analyzer (given below) we can analyze the report.
 
-Use free online tools for real emails:
+Tools can analyze email headers are:
 
-Google Message Header Analyzer - https://toolbox.googleapps.com/apps/messageheader/
+Google Admin Toolbox - https://toolbox.googleapps.com/apps/messageheader/
 
-MXToolbox Header Checker -  https://mxtoolbox.com/EmailHeaders.aspx
+MXToolbox -  https://mxtoolbox.com/EmailHeaders.aspx
 
 # Step 4: Analysis Report of Sample Phishing Email
 
@@ -62,5 +62,12 @@ MXToolbox Header Checker -  https://mxtoolbox.com/EmailHeaders.aspx
     Unverified link destination	: The actual link is hidden behind text, real destination unknown
     Generic closing	                : Signed off as "Microsoft Team" without proper contact info
      
-This email contains multiple phishing warning signs. The combination of a fake sender, scare tactics, and misleading links strongly suggests it's a phishing attempt. It should not be trusted or interacted with.
+If we get a suspicious email:
+                Do not click on any links or open attachments
+                Do not reply to the email
+                Report it to your IT team or email provider
+                Delete it from your inbox
+                Use the "Report phishing" button if the email service has one
+
+In this email contains multiple phishing warning signs. The combination of a fake sender, scare tactics, and misleading links strongly suggests it's a phishing attempt. It should not be trusted or interacted with.
 
