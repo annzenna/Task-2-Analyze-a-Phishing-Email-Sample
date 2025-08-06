@@ -49,6 +49,8 @@ MXToolbox -  https://mxtoolbox.com/EmailHeaders.aspx
 
 # Step 7: Verify presence of spelling or grammar errors.
 
+Bad grammar = low quality = likely fake.
+
      Your pasword was changed
  
 # Step 8: Summarize phishing traits found in the email
