@@ -1,1 +1,8 @@
+From: support@msupdate.net
+Subject: Microsoft account password change
 
+Your pasword was changed. If this wasn't you, click the link below to reset it:
+[Reset Password](http://reset-microsoft-login.com)
+
+Thanks,
+Microsoft Team
